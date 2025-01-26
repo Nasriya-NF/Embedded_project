@@ -15,6 +15,7 @@ In stores, warehouses, libraries or supermarkets, employees and customers often 
 
 Solution:
 The Weight Carrying Automated Roller is a compact with path adaptability, by using embedded system and design knowledge, Desigen an IoT-enabled device to follow user commands and transport weights up to 10 kg. 
+
 3.	NOVELTY
 The project stands out due to its combination of location-based pathfinding, obstacle avoidance, and user-following capabilities in a compact, cost-effective design. Unlike other existing rollers, this device integrates real-time obstacle detection and path optimization for smoother operations in busy environments.
 4.	 HIGH-LEVEL ARCHITECTURE
@@ -92,16 +93,16 @@ Total 	18400
 
 
 TASK	                                                             DURATION	                          DEADLINE
-Information gathering, research and analysis on the topic.         2 weeks	                          10 FEB 2025
+Information gathering, research and analysis on the topic.         2 weeks	                           10 FEB 2025
 Finalizing the plan.	
 
-Hardware collection/ purchase 	                                   4 days                             15 FEB 2025
+Hardware collection/ purchase 	                                    4 days                             15 FEB 2025
 
-Circuit design and testing.	                                       4 weeks	                          10 MAR 2025
+Circuit design and testing.	                                       4 weeks	                           10 MAR 2025
 
-Software development. (Eg-UI/UX)	                                 5 weeks	                          25 MAR 2025
+Software development. (Eg-UI/UX)	                                  5 weeks	                           25 MAR 2025
 Testing 
 
-calibration & correcting	                                         1 week	                            10 APR 2025
+calibration & correcting	                                          1 week	                            10 APR 2025
 
-Final documentation.	                                             2 days                           	12 APR 2025.
+Final documentation.	                                              2 days                           	 12 APR 2025.
